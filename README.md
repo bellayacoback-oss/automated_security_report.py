@@ -4,9 +4,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+<div align="right">
+  
+| Link | |
+|------|---|
+| [📖 Docs](https://github.com/bellayacoback-oss/automated_security_report.py) | [🐛 Issues](https://github.com/bellayacoback-oss/automated_security_report.py/issues) |
+| [💬 Discussions](https://github.com/bellayacoback-oss/automated_security_report.py/discussions) | [📧 Contact](mailto:bellayacoback@gmail.com) |
+
+</div>
+
 **Automated Security Assessment Report Generator**
 
-A production-grade, SANS-aligned automated reporting tool written in Python that dynamically compiles infrastructure security vulnerability data into professional, executive-ready assessment reports. Perfect for security professionals, penetration testers, and DevSecOps teams.
+A production-grade, SANS-aligned automated reporting tool written in Python that dynamically compiles infrastructure security vulnerability data into professional, executive-ready assessment reports.
 
 ---
 
@@ -31,7 +40,7 @@ A production-grade, SANS-aligned automated reporting tool written in Python that
 
 ## Overview
 
-This tool automates the final delivery phase of a security assessment or vulnerability scan. It parses complex scanning data (JSON/dictionaries) and structures it into professionally formatted, executive-ready reports aligned with industry standards (SANS, NIST). 
+This tool automates the final delivery phase of a security assessment or vulnerability scan. It parses complex scanning data (JSON/dictionaries) and structures it into professionally formatted, executive-ready reports in HTML, PDF, or Markdown formats.
 
 **Why spend 8 hours formatting a report when this can do it in 8 seconds?**
 
@@ -533,7 +542,7 @@ pylint src/     # Lint check
 
 **Do not open public issues for security vulnerabilities.**
 
-Email: security@example.com (replace with actual contact)
+Email: [bellayacoback@gmail.com](mailto:bellayacoback@gmail.com)
 
 Please include:
 - Description of vulnerability
@@ -553,15 +562,6 @@ Please include:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Support & Contact
-
-- **📖 Documentation**: [Full wiki](https://github.com/bellayacoback-oss/automated_security_report.py/wiki)
-- **🐛 Issues**: [GitHub Issues](https://github.com/bellayacoback-oss/automated_security_report.py/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/bellayacoback-oss/automated_security_report.py/discussions)
-- **📧 Email**: support@example.com
 
 ---
 
